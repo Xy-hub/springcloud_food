@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: menu
+  profiles:
+    active: dev  #会自动拼接-后的内容，拿到order-dev的配置文件
+  cloud:
+    config:
+      uri: http://localhost:8762  #配置中心的地址
+      fail-fast: true     #是否启动快速失败功能，功能开启则优先判断config server是否正常

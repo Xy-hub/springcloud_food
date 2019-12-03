@@ -4,9 +4,9 @@ spring:
   application:
     name: configserver
   profiles:
-    active: native
+    active: native    #配置文件在本地
   cloud:
     config:
       server:
         native:
-          search-locations: classpath:/shared
+          search-locations: classpath:/shared   #配置文件的目录
