@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df911b1b-d329-4a2c-933b-f167970e85cc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/configserver/src/main/java/com/springcloud/food/ConfigServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/configserver/src/main/java/com/springcloud/food/ConfigServerApplication.java" afterDir="false" />
-    </list>
+    <list default="true" id="df911b1b-d329-4a2c-933b-f167970e85cc" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/eruekaserver/target/" />
@@ -138,94 +136,6 @@
               <item name="food" type="b2602c69:ProjectViewProjectNode" />
               <item name="food" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="food" type="b2602c69:ProjectViewProjectNode" />
-              <item name="food" type="462c0819:PsiDirectoryNode" />
-              <item name="configserver" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="food" type="b2602c69:ProjectViewProjectNode" />
-              <item name="food" type="462c0819:PsiDirectoryNode" />
-              <item name="configserver" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="food" type="b2602c69:ProjectViewProjectNode" />
-              <item name="food" type="462c0819:PsiDirectoryNode" />
-              <item name="configserver" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="food" type="b2602c69:ProjectViewProjectNode" />
-              <item name="food" type="462c0819:PsiDirectoryNode" />
-              <item name="configserver" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="food" type="b2602c69:ProjectViewProjectNode" />
-              <item name="food" type="462c0819:PsiDirectoryNode" />
-              <item name="configserver" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="food" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="food" type="b2602c69:ProjectViewProjectNode" />
-              <item name="food" type="462c0819:PsiDirectoryNode" />
-              <item name="order" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="food" type="b2602c69:ProjectViewProjectNode" />
-              <item name="food" type="462c0819:PsiDirectoryNode" />
-              <item name="order" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="food" type="b2602c69:ProjectViewProjectNode" />
-              <item name="food" type="462c0819:PsiDirectoryNode" />
-              <item name="order" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="food" type="b2602c69:ProjectViewProjectNode" />
-              <item name="food" type="462c0819:PsiDirectoryNode" />
-              <item name="order" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="food" type="b2602c69:ProjectViewProjectNode" />
-              <item name="food" type="462c0819:PsiDirectoryNode" />
-              <item name="order" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="food" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="food" type="b2602c69:ProjectViewProjectNode" />
-              <item name="food" type="462c0819:PsiDirectoryNode" />
-              <item name="order" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="food" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="food" type="b2602c69:ProjectViewProjectNode" />
-              <item name="food" type="462c0819:PsiDirectoryNode" />
-              <item name="order" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -317,7 +227,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575335824247</updated>
-      <workItem from="1575335827081" duration="8414000" />
+      <workItem from="1575335827081" duration="8666000" />
     </task>
     <task id="LOCAL-00001" summary="测试">
       <created>1575354429484</created>
@@ -326,32 +236,38 @@
       <option name="project" value="LOCAL" />
       <updated>1575354429485</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="测试">
+      <created>1575354544868</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575354544868</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8414000" />
+    <option name="totallyTimeSpent" value="8666000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1455" height="935" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
       <window_info id="Capture Tool" />
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24982105" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24982105" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Console" weight="0.329602" />
       <window_info anchor="bottom" id="Spring" />
-      <window_info anchor="bottom" id="Terminal" weight="0.33001244" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.33001244" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Java Enterprise" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" visible="true" weight="0.32876712" />
+      <window_info anchor="bottom" id="Version Control" weight="0.32876712" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.329602" />
@@ -374,6 +290,32 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="测试" />
