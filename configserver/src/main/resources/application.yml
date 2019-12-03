@@ -1,0 +1,12 @@
+server:
+  port: 8762
+spring:
+  application:
+    name: configserver
+  profiles:
+    active: native    #配置文件在本地
+  cloud:
+    config:
+      server:
+        native:
+          search-locations: classpath:/shared   #配置文件的目录

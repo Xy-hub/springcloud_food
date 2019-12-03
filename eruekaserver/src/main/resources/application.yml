@@ -1,0 +1,9 @@
+server:
+  port: 8761
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/  # #设置与Eureka Server交互的地址查询服务和注册服务都需要依赖这个地址
+    register-with-eureka: false
+    fetch-registry: false
