@@ -2,6 +2,7 @@ package com.springcloud.food.controller;
 
 import com.springcloud.food.dao.MenuDao;
 import com.springcloud.food.entity.Menu;
+import com.springcloud.food.entity.MenuVO;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -15,6 +16,7 @@ import java.util.List;
 @RequestMapping("/menu")
 public class MenuController {
 
+    //配置文件中的值#{则是取的bean中的值}
     @Value("${server.port}")
     private String port;
 
@@ -27,9 +29,10 @@ public class MenuController {
     }
 
     @GetMapping("/findAll/{index}/{limit}")
-    public List<Menu> findAll(@PathVariable("index") int index, @PathVariable("limit") int limit){
+    public MenuVO findAll(@PathVariable("index") int index, @PathVariable("limit") int limit){
         List<Menu> menuList = menuDao.findAll(index, limit);
-        return menuList;
+        MenuVO menuVO=new MenuVO(0,"",100,menuList);
+        return menuVO;
     }
 
     @GetMapping("/count")
