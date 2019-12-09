@@ -14,11 +14,11 @@ import java.util.List;
  */
 public class MenuVO {
     //layui的数据格式转换类
-    //所有的属性都要与layui中定义的一致
+    //layui中定义了的后台返回的数据格式必须式哪种，所有的属性都要与layui中要求的的一致，不然无法获取到数据
     private int code;
 
     private String msg;
-
+    //数据的总记录数，用来分页的
     private int count;
 
     private List<Menu> data;
